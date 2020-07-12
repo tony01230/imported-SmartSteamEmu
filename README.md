@@ -12,4 +12,5 @@ Based on decompiled source of SSELauncher contained in [SmartSteamEmu **1.4.3** 
 * DLC list clearing
 
 Credits to Original Repo : [**MAXBURAOT/SmartSteamEmu**](../../../../MAXBURAOT/SmartSteamEmu)
+
 This is just a replication of the real repo with releases instead of an expiring artifact section.
