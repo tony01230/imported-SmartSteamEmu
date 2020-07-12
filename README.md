@@ -1,7 +1,7 @@
 ﻿# SSELauncher comfy edition
 
 [![Build status](https://ci.appveyor.com/api/projects/status/i1jnsasq5ubjgafa?svg=true)](https://ci.appveyor.com/project/tony01230/imported-smartsteamemu)
-[**Download latest working build**](/releases)
+[**Download latest working build**](../../releases)
 
 Based on decompiled source of SSELauncher contained in [SmartSteamEmu **1.4.3** release](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935), slightly cleaned up but mostly untouched.
 
